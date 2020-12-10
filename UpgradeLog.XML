@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BackgroundWorker">
+</Property><Property Name="Файл решения" Value="D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker.sln">
+</Property><Property Name="Файл параметров пользователя" Value="D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker.suo">
+</Property><Property Name="Date" Value="10 февраля 2016 г.">
+</Property><Property Name="Time" Value="12:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BackgroundWorker.sln" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BackgroundWorker.suo" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker.suo">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\BackgroundWorker.csproj" Description="Успешно создана резервная копия файла проекта: D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\BackgroundWorker.csproj">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\BackgroundWorker.csproj.user" Description="Резервная копия проекта успешно создана как D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\BackgroundWorker.csproj.user">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Form1.cs" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Form1.Designer.cs" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Program.cs" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Program.cs">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Properties\Settings.settings" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Form1.resx" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\Properties\Resources.resx" Description="Успешно создана резервная копия файла D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\Backup\BackgroundWorker\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="BackgroundWorker" Source="BackgroundWorker\BackgroundWorker.csproj" Description="Этот проект рассчитан на .NET Framework версии 2.0 или 3.0. Если проект будет использовать сборки, требующие более новую версию .NET Framework, возникнет ошибка построения. Чтобы изменить версию .NET Framework, выберите пункт &quot;Свойства&quot; в меню проекта, затем выберите новую версию в раскрывающемся списке &quot;.NET Framework&quot;. (В Visual Basic этот список находится на вкладке &quot;Компиляция&quot;, открываемой при нажатии кнопки &quot;Дополнительные параметры компилятора&quot;.)">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\BackgroundWorker.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="BackgroundWorker" Source="BackgroundWorker\BackgroundWorker.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BackgroundWorker.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="BackgroundWorker.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BackgroundWorker" Source="BackgroundWorker\BackgroundWorker.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

@@ -1,0 +1,14 @@
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.Cache
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+D:\!project\Seo\testThread\BackgroundWorker\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\obj\Debug\BackgroundWorker.Form1.resources
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\obj\Debug\BackgroundWorker.Properties.Resources.resources
+D:\Projects\BackgroundWorker_snippet\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.Cache
